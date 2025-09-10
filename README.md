@@ -61,8 +61,16 @@ virtualization support enabled in your BIOS/UEFI settings.
    ![2025-09-09_22-00-15.png](images/2025-09-09_22-00-15.png)
 4. Choose "Interactive installation" method
    ![2025-09-09_22-00-12.png](images/2025-09-09_22-00-12.png)
-5. Select "Erase disk and install Ubuntu"
-6. Choose "No encryption" for simpler setup
+5. Select "Default selection" for "What apps would you like to install to start with?"
+   - This includes just the essentials: web browser and basic utilities
+6. Configure optimization settings for proprietary software
+7. Set up your timezone and location
+8. Select "Erase disk and install Ubuntu"
+9. Choose "No encryption" for simpler setup
+   ![2025-09-09_22-00-17.png](images/2025-09-09_22-00-18.png)
+10. Verify partition setup and configuration
+    ![2025-09-09_22-00-17.png](images/2025-09-09_22-00-17.png)
+11. Click "Install" to begin the installation process
 
 #### Step 4: User Account Creation
 
