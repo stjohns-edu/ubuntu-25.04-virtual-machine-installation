@@ -95,5 +95,5 @@ operating system.
 
 #### Additional Resources
 
-- **System Updates**: Run `sudo apt update && sudo apt upgrade` to keep your system current
-- **Ubuntu Documentation**: [https://help.ubuntu.com/](https://help.ubuntu.com/)
+- System Updates: Run `sudo apt update && sudo apt upgrade` to keep your system current
+- Ubuntu Documentation: [https://help.ubuntu.com/](https://help.ubuntu.com/)
